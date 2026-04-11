@@ -22,7 +22,7 @@ The goal is to provide clear, insightful, and interactive dashboards to explore 
 - State-wise population distribution
 - Bar charts and maps
 - Highlights most and least populated states
-- visuals/dashboard - population visualization.png
+![visuals/dashboard](https://github.com/birendra-bit/us-population-and-gdp-visualization/blob/main/visuals/dashboard-population-visualization.png)
 ### 2. GDP Visualization
 - State-wise GDP comparison
 - Economic ranking of states
