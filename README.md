@@ -34,9 +34,10 @@ The goal is to provide clear, insightful, and interactive dashboards to explore 
 - Identification of high GDP but low population states
 - Interactive filtering by state
   How to Use the Dashboard
-# Open Power BI File
+# Instruction for deployment
+## Open Power BI File
 - Download the .pbix file from this repository
 - Open it using Power BI Desktop
 - Explore dashboards using filters and visuals
 # Folder structure
-
+![Folder Structure](https://github.com/birendra-bit/us-population-and-gdp-visualization/blob/main/visuals/folder%20structure.png)
