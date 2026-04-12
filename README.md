@@ -19,10 +19,12 @@ The goal is to provide clear, insightful, and interactive dashboards to explore 
 
 ## Dashboard Features
 ### 1. Population Visualization
-- State-wise population distribution
-- Bar charts and maps
-- Highlights most and least populated states
+- Census Region wise population distribution using map
+- Bar charts showing count of state in each census region
+- line chart shows the population growth rate for top 5 state
+- Table with basic information of state and population
 ![visuals/dashboard](https://github.com/birendra-bit/us-population-and-gdp-visualization/blob/main/visuals/dashboard-population-visualization.png)
+
 ### 2. GDP Visualization
 - State-wise GDP comparison
 - Economic ranking of states
@@ -36,3 +38,5 @@ The goal is to provide clear, insightful, and interactive dashboards to explore 
 - Download the .pbix file from this repository
 - Open it using Power BI Desktop
 - Explore dashboards using filters and visuals
+# Folder structure
+
