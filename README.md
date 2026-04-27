@@ -26,14 +26,10 @@ The goal is to provide clear, insightful, and interactive dashboards to explore 
 ![visuals/dashboard](https://github.com/birendra-bit/us-population-and-gdp-visualization/blob/main/visuals/dashboard-population-visualization.png)
 
 ### 2. GDP Visualization
-- State-wise GDP comparison
-- Economic ranking of states
-- Trend analysis (if time-based data included)
-### 3. Combined Insights
-- Correlation between population and GDP
-- Identification of high GDP but low population states
-- Interactive filtering by state
-  How to Use the Dashboard
+- State-wise GDP growth trend over the years
+- GDP per capita by census region wise
+- sum of gdp state wise (top 5 state)
+
 # Instruction for Deployment
 ### Open Power BI File
 - Download the .pbix file from this repository
