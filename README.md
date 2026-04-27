@@ -29,7 +29,7 @@ The goal is to provide clear, insightful, and interactive dashboards to explore 
 - State-wise GDP growth trend over the years
 - GDP per capita by census region wise
 - sum of gdp state wise (top 5 state)
-
+![visual/dashboard](https://github.com/birendra-bit/us-population-and-gdp-visualization/blob/main/visuals/gdp-dashboard.png)
 # Instruction for Deployment
 ### Open Power BI File
 - Download the .pbix file from this repository
